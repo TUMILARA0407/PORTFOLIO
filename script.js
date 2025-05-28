@@ -1,0 +1,2 @@
+ alert("click to continue");
+
